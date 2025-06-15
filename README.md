@@ -171,6 +171,11 @@ Aplikasi menggunakan desain modern dengan karakteristik:
 - Session-based authentication
 - MVC pattern yang terstruktur
 
+## Demo Aplikasi
+
+[Link Demo Aplikasi](https://github.com/user-attachments/assets/79dc152a-a7a4-4c04-8ef2-b6e27a9ad69c)
+
+
 ## 👨‍💻 Developer
 
 Dikembangkan oleh **Ian7672** - [GitHub Profile](https://github.com/Ian7672)
